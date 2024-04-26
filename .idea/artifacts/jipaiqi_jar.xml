@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jipaiqi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jipaiqi_jar</output-path>
+    <root id="archive" name="jipaiqi.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/jipaiqi/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="jipaiqi" />
+    </root>
+  </artifact>
+</component>
